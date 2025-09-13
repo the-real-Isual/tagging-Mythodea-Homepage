@@ -1,0 +1,308 @@
+{
+    "SC": [
+        {
+            "name": "Ad Astra",
+            "subfactions": [
+                "Subfaction1",
+                "Subfaction2",
+                "Subfaction 3"
+            ]
+        },
+        {
+            "name": "Askalon",
+            "subfactions": [
+                "Subfaction1",
+                "Subfaction2",
+                "Subfaction 3"
+            ]
+        },
+        {
+            "name": "Aufbruch",
+            "subfactions": [
+                "Subfaction1",
+                "Subfaction2",
+                "Subfaction 3"
+            ]
+        },
+        {
+            "name": "Blutpakt",
+            "subfactions": [
+                "Subfaction1",
+                "Subfaction2",
+                "Subfaction 3"
+            ]
+        },
+        {
+            "name": "Bund der Ritter",
+            "subfactions": [
+                "Subfaction1",
+                "Subfaction2",
+                "Subfaction 3"
+            ]
+        },
+        {
+            "name": "Familienlager",
+            "subfactions": [
+                "Subfaction1",
+                "Subfaction2",
+                "Subfaction 3"
+            ]
+        },
+        {
+            "name": "Fest der Vielfalt",
+            "subfactions": [
+                "Subfaction1",
+                "Subfaction2",
+                "Subfaction 3"
+            ]
+        },
+        {
+            "name": "Fjordlande",
+            "subfactions": [
+                "Subfaction1",
+                "Subfaction2",
+                "Subfaction 3"
+            ]
+        },
+        {
+            "name": "Freies Lager",
+            "subfactions": [
+                "Subfaction1",
+                "Subfaction2",
+                "Subfaction 3"
+            ]
+        },
+        {
+            "name": "Gilde der Waffen",
+            "subfactions": [
+                "Subfaction1",
+                "Subfaction2",
+                "Subfaction 3"
+            ]
+        },
+        {
+            "name": "Hafenviertel",
+            "subfactions": [
+                "Subfaction1",
+                "Subfaction2",
+                "Subfaction 3"
+            ]
+        },
+        {
+            "name": "Herzsucher",
+            "subfactions": [
+                "Subfaction1",
+                "Subfaction2",
+                "Subfaction 3"
+            ]
+        },
+        {
+            "name": "Kartographen",
+            "subfactions": [
+                "Subfaction1",
+                "Subfaction2",
+                "Subfaction 3"
+            ]
+        },
+        {
+            "name": "Künstler",
+            "subfactions": [
+                "Subfaction1",
+                "Subfaction2",
+                "Subfaction 3"
+            ]
+        },
+        {
+            "name": "Kupfersöldner",
+            "subfactions": [
+                "Subfaction1",
+                "Subfaction2",
+                "Subfaction 3"
+            ]
+        },
+        {
+            "name": "Märkischer Bund",
+            "subfactions": [
+                "Subfaction1",
+                "Subfaction2",
+                "Subfaction 3"
+            ]
+        },
+        {
+            "name": "Münzquell",
+            "subfactions": [
+                "Subfaction1",
+                "Subfaction2",
+                "Subfaction 3"
+            ]
+        },
+        {
+            "name": "Nord VU",
+            "subfactions": [
+                "Subfaction1",
+                "Subfaction2",
+                "Subfaction 3"
+            ]
+        },
+        {
+            "name": "Nordwind",
+            "subfactions": [
+                "Subfaction1",
+                "Subfaction2",
+                "Subfaction 3"
+            ]
+        },
+        {
+            "name": "Porto Franco",
+            "subfactions": [
+                "Subfaction1",
+                "Subfaction2",
+                "Subfaction 3"
+            ]
+        },
+        {
+            "name": "Orks",
+            "subfactions": [
+                "Subfaction1",
+                "Subfaction2",
+                "Subfaction 3"
+            ]
+        },
+        {
+            "name": "Reich der Rosen",
+            "subfactions": [
+                "Subfaction1",
+                "Subfaction2",
+                "Subfaction 3"
+            ]
+        },
+        {
+            "name": "Söldner",
+            "subfactions": [
+                "Subfaction1",
+                "Subfaction2",
+                "Subfaction 3"
+            ]
+        },
+        {
+            "name": "Sturmwächter",
+            "subfactions": [
+                "Subfaction1",
+                "Subfaction2",
+                "Subfaction 3"
+            ]
+        },
+        {
+            "name": "Süden",
+            "subfactions": [
+                "Subfaction1",
+                "Subfaction2",
+                "Subfaction 3"
+            ]
+        },
+        {
+            "name": "Tross",
+            "subfactions": [
+                "Subfaction1",
+                "Subfaction2",
+                "Subfaction 3"
+            ]
+        },
+        {
+            "name": "Validar",
+            "subfactions": [
+                "Subfaction1",
+                "Subfaction2",
+                "Subfaction 3"
+            ]
+        },
+        {
+            "name": "Wardens",
+            "subfactions": [
+                "Subfaction1",
+                "Subfaction2",
+                "Subfaction 3"
+            ]
+        },
+        {
+            "name": "Wayfarers Arrival",
+            "subfactions": [
+                "Subfaction1",
+                "Subfaction2",
+                "Subfaction 3"
+            ]
+        },
+        {
+            "name": "Westen",
+            "subfactions": [
+                "Subfaction1",
+                "Subfaction2",
+                "Subfaction 3"
+            ]
+        },
+        {
+            "name": "Zwergenschmiede",
+            "subfactions": [
+                "Subfaction1",
+                "Subfaction2",
+                "Subfaction 3"
+            ]
+        }
+    ],
+    "NSC": [
+        {
+            "name": "Untotes Fleisch",
+            "subfactions": [
+                "Order of Aedinhall","Dukedom Dampshore","Totenmauer","Forgotten ones","Icemark","Silvermark","Orden des Heiligen Dugald","Crackenmoore","Tomb Choir"
+            ]
+        },
+        {
+            "name": "Schwarze Dynastie",
+            "subfactions": [
+                "Subfaction1",
+                "Subfaction2",
+                "Subfaction 3"
+            ]
+        },
+        {
+            "name": "Skargen",
+            "subfactions": [
+                "Subfaction1",
+                "Subfaction2",
+                "Subfaction 3"
+            ]
+        },
+        {
+            "name": "Atteron",
+            "subfactions": []
+        },
+        {
+            "name": "Crimson Sails Company",
+            "subfactions": []
+        },
+        {
+            "name": "Seehandelsgilde",
+            "subfactions": []
+        },
+        {
+            "name": "Inquisition",
+            "subfactions": []
+        },
+        {
+            "name": "Greifenbronn",
+            "subfactions": []
+        },
+        {
+            "name": "Drachenjäger",
+            "subfactions": []
+        },
+        {
+            "name": "Tuvrani",
+            "subfactions": []
+        },
+        {
+            "name": "Vibalier",
+            "subfactions": []
+        }
+    ]
+}
